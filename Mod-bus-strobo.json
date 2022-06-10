@@ -1,0 +1,300 @@
+{ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/630097811100",
+      "main_ads_intertitial":"ca-app-pub-3303846502291322/36683590270",
+      "main_ads_intertitial_applovin": "9a5e39a63b89826e0",
+      "main_native_for_admob_applovin":"ca-app-pub-3303846502291322/72742304190",
+      "backup_native_for_admob_applovin":"0a854f7f60982fe10",
+      "backup_ads_banner":"0000000000",
+      "backup_ads_intertitial":"9a5e39a63b89826e0",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "matikan_iklan":"0",
+      "link_redirect": "https://"
+ 
+    }
+  ],
+ "DATA":
+  [ 
+	{
+      "title":"JB3+ MHD Voyager",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-JB3-MHD-Voyager.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/MOD-BUSSID-JB3-MHD-Voyager-Dop-Keira.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Bus Voyager Daksina Trans",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bus-Voyager-Daksina-Trans.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Mod-Bus-Voyager-Daksina-Trans.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Mod-Bus-Voyager-Daksina-Trans.png"
+    },
+	{
+      "title":"SHD Jetbus 3+ STJ Biru",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bussid-SHD-Jetbus-3-STJ-Biru.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/SHD-Jetbus-3-STJ-Biru.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Bus SHD JB3+ RK8 ATJ by MD Creation",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bus-SHD-JB3-RK8-ATJ-by-MD-Creation.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/SHD-JB3-RK8-ATJ-by-MD-Creation.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"JB3+ MN RSM Putra Luragung Montel",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/JB3-MN-RSM-Putra-Luragung-Montel.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-MN-RSM-Putra-Luragung-Montel.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/JB3-MN-RSM-Putra-Luragung-Montel.png"
+    },
+	{
+      "title":"Bus JB3 Sein Ngalir",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Bus-JB3-Sein-Ngalir-1.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-JB3-Sein-Ngalir-1.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Bus JB3 O500 RS Facelift",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Bus-JB3-Sein-Ngalir.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-JB3-Sein-Ngalir.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Bus Jetbus 3+ Facelift Mercy O500RS",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bus-JB3-O500-RS-Facelift.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-JB3-O500-RS-Facelift.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"UHD JB3+ Full Aksesoris",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bus-Jetbus-3-Facelift-Mercy-O500RS.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/.png"
+    },
+	{
+      "title":"Madu Kismo JB3+ SHD Voyager Terbaru Full Anim",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bussid-UHD-JB3-Full-Aksesoris.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/UHD-JB3-Full-Aksesoris.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/UHD-JB3-Full-Aksesoris.png"
+    },
+	{
+      "title":"Jetbus 3+ Setra Angga Saputro Full Anim",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mad-Kismo-JB3-SHD-Voyager-Terbaru-Full-Anim.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Mad-Kismo-JB3-SHD-Voyager-Terbaru-Full-Anim.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Budiman JB3 Full Strobo & Anim",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Jetbus-3-Setra-Angga-Saputro-Full-Anim.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Jetbus-3-Setra-Angga-Saputro-Full-Anim.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Jetbus-3-Setra-Angga-Saputro-Full-Anim.png"
+    },
+	  
+    {
+      "title":"JB3+ UHD Angga Saputro Voyager",
+	     "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JB3-UHD-Angga-Saputro-Voyager.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-UHD-Angga-Saputro-Voyager.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/.png"
+    },
+	   {
+      "title":"JB3+ UHD Angga Saputro Facelift Full Acc",
+	     "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JB3-UHD-Angga-Saputro-Facelift-Full-Acc.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-UHD-Angga-Saputro-Facelift-Full-Acc.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/.png"
+    },
+    {
+      "title":"JB3+ UHD Angga Saputro Facelift",
+	     "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JB3-UHD-Angga-Saputro-Facelift.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-UHD-Angga-Saputro-Facelift.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/.png"
+    },
+	   {
+      "title":"JB3+ HDD Non Facelift Angga Saputro Full Acc",
+	      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JB3-HDD-Non-Facelift-Angga-Saputro-Full-Acc.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-HDD-Non-Facelift-Angga-Saputro-Full-Acc.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/JB3-HDD-Non-Facelift-Angga-Saputro-Full-Acc.png"
+    },
+   {
+      "title":"SR2 XHD Prime Scania K410iB",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-SR2-XHD-Prime-Scania-K410iB.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Scania-K410iB.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Scania-K410IB.png"
+    },
+    {
+      "title":"Bus SR2 Panorama",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Bus-SR2-Panorama.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/BUS-SR2-Panorama.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/BUS-SR2-Panorama.png"
+    },
+    {
+      "title":"Bus Jetliner SHD Hino RK8",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Bus-Jetliner-SHD-Hino-RK8.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-Jetliner-SHD-Hino-RK8.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/BUS-Jetliner-JT-WSP.png"
+    },
+    {
+      "title":"SR2 XHD Prime Scania K410iB",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-SR2-XHD-Prime-Scania-K410iB-Varian-Sumatra.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Livery-NPM-SR2-Tronton-UMP.png",
+      "link_livery":"https://wadahpintar.com/bussid/XHD-Prime-Scania%20K410iB-Varian-Sumatra.bussidmod"
+    },
+    {
+      "title":"JB3+ SHD Volvo B11R",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-JB3-SHD-Volvo-B11R.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-SHD-Volvo-B11R.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/JB3-Volvo-as-X-FM.png"
+    },
+    {
+      "title":"Bus Scania Touring",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Bus-Scania-Touring.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-Scania-Touring.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"BUSSID Bus Transjakarta Gandeng",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Bus-Transjakarta-Gandeng.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-Transjakarta-Gandeng.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Bus Marcopolo Paradiso 1800DD",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Marcopolo-Paradiso-1800DD.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Marcopolo-Paradiso-1800DD.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Vidrio-Marcopolo-Paradiso.png"
+    },
+   {
+      "title":"Bus SR2 XHD Scania K410iB",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/03/MOD-BUSSID-Bus-SR2-XHD-Scania-K410iB.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/SR2-XHD-Scania-K410iB-V1-Standar.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Putra-Pelangi.png"
+    },
+   {
+      "title":"Bus Bumel Sumber Kencono",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-Bus-Bumel-Sumber-Kencono.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Bumel-Sumber-Kencono.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Jetbus 2 Travego",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-Jetbus-2-Travego.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Jetbus-2-Travego-Dop-Ring-V1.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"JB3 Dream Coach",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-JB3-Dream-Coach.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-Dream-Coach.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/JB3-Dream-Coach.png"
+    },
+   {
+      "title":"Jet X Bus",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/01/MOD-BUSSID-Jet-X-Bus.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Jet-X-Bus.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"JB3+ O500RS Angga Saputro",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/01/MOD-BUSSID-JB3-O500RS-Angga-Saputro.jpeg",
+      "link_mods":"",
+      "link_livery":""
+    },
+   {
+      "title":"Bus Transjakarta",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/MOD-BUSSID-Bus-Transjakarta.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-Transjakarta.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"JB3+ SHD Mercy O500RS Angga Saputro Voyager",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/MOD-BUSSID-JB3-SHD-Mercy-O500RS-Angga-Saputro-Voyager.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-SHD-Mercy-O500RS-Angga-Saputro.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"JB3+ SHD Mercy O500RS Angga Saputro Voyager",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/MOD-BUSSID-JB3-SHD-Mercy-O500RS-Angga-Saputro-Voyager.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3+_SHD-Mercy-O500RS-Angga-Saputro-Voyager.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"JB3+ SHD Mercy O500RS Angga Saputro Facelift",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/MOD-BUSSID-JB3-SHD-Mercy-O500RS-Angga-Saputro-Facelift.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-SHD-Mercy-O500RS-Angga-Saputro-Facelift.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Avante D2 SDD",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/MOD-BUSSID-Avante-D2-SDD.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Avante-D2-SDD.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Avante-D2-SDD.png"
+    },
+   {
+      "title":"Bus New Armada Evonext Gen 2",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/Bus-New-Armada-Evonext-Gen-2.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-New-Armada-Evonext-Gen-2.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"JB3+ SHD Setra Angga Saputro Hino RK8",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/JB3-SHD-Setra-Angga-Saputro-Hino-RK8.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-SHD-Setra-Angga-Saputro-Hino-RK8.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"B3+ SHD Voyager Angga Saputro Hino RK8",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/JB3-SHD-Voyager-Angga-Saputro-Hino-RK8.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-SHD-Voyager-Angga-Saputro-Hino-RK8.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Elf NLR 55 BLX Bumper Avante",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/Elf-NLR-55-BLX-Bumper-Avante.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Elf-NLR-55-BLX-Bumper-Avante.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Elf-NLR-55-BLX-Bumper-Avante.png"
+    },
+   {
+      "title":"JB3 Oleng Di Tempat",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/JB3-Oleng-Di-Tempat.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-Oleng-Di-Tempat.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Setra JB2+ HD – Varian 3",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/Setra-JB2-HD-Varian-3.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Setra-JB2-HD-Varian-3.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Setra-JB2-HD-Varian-3.png"
+    },
+   {
+      "title":"Setra JB2+ HD – Varian 2",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/Setra-JB2-HD-Varian-2.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Setra-JB2-HD-Varian-2.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Setra-JB2-HD-Varian-2.png"
+    },
+   {
+      "title":"ELF NLR 55 BLX Bumper Jetbus 3",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/ELF-NLR-55-BLX-Bamper-Jetbus-3.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/ELF-NLR-55-BLX-Bamper-Jetbus-3.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/ELF-NLR-55-BLX-Bamper-Jetbus-3.png"
+    },
+   {
+      "title":"JB3+ Full Kejutan",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JB3-Full-Kejutan.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-Full-Kejutan.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"JB3+ UHD Angga Saputro Voyager Full Acc",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JB3-UHD-Angga-Saputro-Voyager-Full-Acc.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-UHD-Angga-Saputro-Voyager-Full-Acc.bussidmod",
+      "link_livery":""
+    }
+  ]
+}
