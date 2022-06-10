@@ -1,0 +1,437 @@
+{ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/630097811100",
+      "main_ads_intertitial":"ca-app-pub-3303846502291322/36683590270",
+      "main_ads_intertitial_applovin": "9a5e39a63b89826e0",
+      "main_native_for_admob_applovin":"ca-app-pub-3303846502291322/72742304190",
+      "backup_native_for_admob_applovin":"0a854f7f60982fe10",
+      "backup_ads_banner":"0000000000",
+      "backup_ads_intertitial":"9a5e39a63b89826e0",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "matikan_iklan":"0",
+      "link_redirect": "https://"
+ 
+    }
+  ],
+ "DATA":
+  [
+	  {
+      "title":"Hino Lohan Muatan Kayu",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/14.-Hino-Lohan-Muatan-Kayu.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-Lohan-Muatan-Kayu.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino Lohan Purwo Logistik Muatan Excavator",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/15.-Hino-Lohan-Purwo-Logistik-Muatan-Excavator.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-Lohan-Purwo-Logistik-Muatan-Excavator.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino Muatan Batu Bara Livery Keren",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/16.-Hino-Muatan-Batu-Bara-Livery-Keren.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino Profia Box Livery Terbaik",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/18.-Hino-Terpal-No-Topi.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-Terpal-No-Topi.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino Terpal No Topi",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/19.-Hino-Terpal-Oren-Full-Muatan.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-Terpal-Oren-Full-Muatan.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino Trailer Pengangkut Mobil",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/20.-Hino-Trailer-Pengangkut-Mobil.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-Trailer-Pengangkut-Mobil.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Hino-Trailer-Pengangkut-Mobil.png"
+    },
+	{
+      "title":"Hino 700 Muatan Pipa Beton",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/21.-Hino-700-Muatan-Pipa-Beton.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-700-Muatan-Pipa-Beton.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino Tronton Ceper",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/22.-Mod-Bussid-Hino-Tronton-Ceper.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-Tronton-Ceper.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Hino-Tronton-Ceper.png"
+    },
+	{
+      "title":"Truck Fuso Muatan Kayu Full Anim Terbaru",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/1.-Truck-Fuso-Muatan-Kayu-Full-Anim-Terbaru.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Fuso-Muatan-Kayu-Full-Anim-Terbaru.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Truck Fuso New Figher C11 Full Anim",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/2.-Truck-Fuso-New-Figher-C11-Full-Anim.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Fuso-New-Figher-C11-Full-Anim.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Truck Fuso TG Kapsul C20 Kotor Full Anim",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/3.-Truck-Fuso-TG-Kapsul-C20-Kotor-Full-Anim.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Fuso-TG-Kapsul-C20-Kotor-Full-Anim.bussidmod",
+      "link_livery":"Truck-Fuso-New-Figher-C11-Full-Anim"
+    },
+	  {
+      "title":"Hino 500 Modifikasi Bumper",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/1.-Hino-500-Modifikasi-Bumper.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-500-Modifikasi-Bumper.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Hino-500-Modifikasi-Bumper.png"
+    },
+	{
+      "title":"Hino 500 Muatan Pipa",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/2.-Hino-500-Muatan-Pipa.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-500-Muatan-Pipa.bussidvehicle",
+      "link_livery":""
+    },
+	{
+      "title":"Hino 500 NG Muatan Semen",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/3.-Hino-500-NG-Muatan-Semen.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-500-NG-Muatan-Semen.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino 500 NG Muatan Sound System",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/4.-Hino-500-NG-Muatan-Sound-System.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-500-NG-Muatan-Sound-System.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino 500 Pengangkut Motor",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/5.-Hino-500-Pengangkut-Motor.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-500-Pengangkut-Motor.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino 700 Kosongan Tanpa Bak",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/6.-Hino-700-Kosongan-Tanpa-Bak.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-700-Kosongan-Tanpa-Bak.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino 700 Profia Muatan Tank",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/7.-Hino-700-Profia-Muatan-Tank.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-700-Profia-Muatan-Tank.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino 700 Tangki Jumbo Angkut Semen",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/8.-Hino-700-Tangki-Jumbo-Angkut-Semen.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-700-Tangki-Jumbo-Angkut-Semen.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Hino-700-Tangki-Jumbo-Angkut-Semen.png"
+    },
+	{
+      "title":"Hino 8 Roda Panjang Tronton",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/9.-Hino-8-Roda-Panjang-Tronton.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-8-Roda-Panjang-Tronton.bussidvehicle",
+      "link_livery":""
+    },
+	{
+      "title":"Hino Dump Original Angkut",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/10.-Hino-Dump-Original-Angkut.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-Dump-Original-Angkut.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino Engkel 500",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/11.-Hino-Engkel-500.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-Engkel-500.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino Full Muatan Full Modif Keren",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/12.-Hino-Full-Muatan-Full-Modif-Keren.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-Full-Muatan-Full-Modif-Keren.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Hino-Full-Muatan-Full-Modif-Keren.png"
+    },
+	{
+      "title":"Hino L Muatan Semen",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/13.-Hino-L-Muatan-Semen.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/.png"
+    },
+{
+      "title":"Truk Canter Isuzu NMR 71 Margo Joyo Gold",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/06/1.-Mod-Truk-Canter-Isuzu-NMR-71-Margo-Joyo-Gold.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Truk-Canter-Isuzu-NMR-71-Margo-Joyo-Gold.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truk-Canter-Isuzu-NMR-71-Margo-Joyo-Gold.png"
+    },
+	{
+      "title":"Truk Canter Isuzu NMR 71 Margo Joyo Abu Abu",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/06/2.-Mod-Truk-Canter-Isuzu-NMR-71-Margo-Joyo-Abu-Abu.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Truk-Canter-Isuzu-NMR-71-Margo-Joyo-Abu-Abu.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Truk Canter Isuzu NMR 71 Margo Joyo Oren",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/06/3.-Mod-Truk-Canter-Isuzu-NMR-71-Margo-Joyo-Oren.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Truk-Canter-Isuzu-NMR-71-Margo-Joyo-Oren.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truk-Canter-Isuzu-NMR-71-Margo-Joyo-Oren.png"
+    },
+	{
+      "title":"Truck ABC",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/05/Download-Mod-Bussid-Truck-ABC.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-ABC.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-ABC.png"
+    },
+	{
+      "title":"Truck Black Team Lolipop Full Anim & Strobo",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/05/Download-Mod-Bussid-Truck-Black-Team-Lolipop-Full-Anim-Strobo.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Black-Team-Lolipop-Full-Anim-Strobo.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-Black-Team-Lolipop-Full-Anim-Strobo.png"
+    }, 
+   {
+      "title":"Truck Umplung Kantor Rafael Wedding",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Umplung-Kantor-Rafael-Wedding.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Umplung-Kantor-Rafael-Wedding.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Umplung-Libom-Kantor-Rafael-Wedding.png"
+    },
+   {
+      "title":"Monster Truck Seventy Indonesia",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Monster-Truck-Seventy-Indonesia.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Monster-Truck-Seventy-Indonesia.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Truck Volvo FMX 440",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Volvo-FMX-440.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Volvo-FMX-440.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-Volvo-FMX-440.png"
+    },
+   {
+      "title":"Truck UD Quester Bak Muat Kayu",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-UD-Quester-Bak-Muat-Kayu.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-UD-Quester-Bak-Muat-Kayu.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-UD-Quester-Bak-Muat-Kayu.png"
+    },
+   {
+      "title":"Truck Fuso FN Wing Box",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Fuso-FN-Wing-Box.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Fuso-FN-Wing-Box.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-Fuso-FN-Wing-Box.png"
+    },
+   {
+      "title":"Truck Canter NMR JSK Concept Star Light",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-NMR-JSK-Concept-Star-Light.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/JSK-Concept-Star-Light.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/JSK-Concept-Star-Light.png"
+    },
+   {
+      "title":"Truck Canter Giga Restu Bunda",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-Giga-Restu-Bunda.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Restu-Bunda-No-Terpal.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Restu-Bunda-No-Terpal.png"
+    },
+   {
+      "title":"Truck Hino Trailer Pencuri Traffic",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Hino-Trailer-Pencuri-Traffic.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Hino-Trailer-Pencuri-Traffic.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Truck Canter Sujama Malika",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-Sujama-Malika.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Sujama-Malika.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Sujama-Malika.png"
+    },
+   {
+      "title":"Truck MAN Damkar",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-MAN-Damkar.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-MAN-Damkar.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Truck Canter Republik Gabah",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-Republik-Gabah.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Canter-Republik-Gabah.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-Canter-Republik-Gabah.png"
+    },
+   {
+      "title":"Truck Canter Public Figure",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-Public-Figure.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Canter-Public-Figure.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-Canter-Public-Figure.png"
+    },
+   {
+      "title":"Truck Canter 010 Full Box Mbois",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-010-Full-Box-Mbois.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Canter-010-Full-Box-Mbois.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-Canter-010-Full-Box-Mbois.png"
+    },
+   {
+      "title":"Truck UD Quester Trailer ISO Tank",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-UD-Quester-Trailer-ISO-Tank.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-UD-Quester-Trailer-ISO-Tank.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-UD-Quester-Trailer-ISO-Tank.png"
+    },
+   {
+      "title":"Truck Liebherr LTM 1300-6.2 Crane",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Liebherr-LTM-1300-6.2-Crane.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Liebherr-LTM-1300-6.2-Crane.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Truck Tractor Ural",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Tractor-Ural.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Tractor-Ural.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Truck Si Optimum Pride",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Si-Optimum-Pride.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Si-Optimum-Pride.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Truck Mitsubishi Fuso Tronton Box",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Mitsubishi-Fuso-Tronton-Box.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Mitsubishi-Fuso-Tronton-Box.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Truck Scania P420 Car Transporter",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Scania-P420-Car-Transporter.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Scania-P420-Car-Transporter.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Truck Canter NKR Tebu Racing",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Canter-NKR-Tebu-Racing.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Canter-NKR-Tebu-Racing.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-Canter-NKR-Tebu-Racing.png"
+    },
+    {
+      "title":"JB3+ SHD Setra Angga Saputro Hino RK8",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/JB3-SHD-Setra-Angga-Saputro-Hino-RK8.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-SHD-Setra-Angga-Saputro-Hino-RK8.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"B3+ SHD Voyager Angga Saputro Hino RK8",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/JB3-SHD-Voyager-Angga-Saputro-Hino-RK8.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-SHD-Voyager-Angga-Saputro-Hino-RK8.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Elf NLR 55 BLX Bumper Avante",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/Elf-NLR-55-BLX-Bumper-Avante.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Elf-NLR-55-BLX-Bumper-Avante.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Elf-NLR-55-BLX-Bumper-Avante.png"
+    },
+   {
+      "title":"JB3 Oleng Di Tempat",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/JB3-Oleng-Di-Tempat.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-Oleng-Di-Tempat.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Setra JB2+ HD – Varian 3",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/Setra-JB2-HD-Varian-3.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Setra-JB2-HD-Varian-3.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Setra-JB2-HD-Varian-3.png"
+    },
+   {
+      "title":"Setra JB2+ HD – Varian 2",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/Setra-JB2-HD-Varian-2.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Setra-JB2-HD-Varian-2.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Setra-JB2-HD-Varian-2.png"
+    },
+   {
+      "title":"ELF NLR 55 BLX Bumper Jetbus 3",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/ELF-NLR-55-BLX-Bamper-Jetbus-3.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/ELF-NLR-55-BLX-Bamper-Jetbus-3.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/ELF-NLR-55-BLX-Bamper-Jetbus-3.png"
+    },
+   {
+      "title":"JB3+ Full Kejutan",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JB3-Full-Kejutan.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-Full-Kejutan.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"JB3+ UHD Angga Saputro Voyager Full Acc",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JB3-UHD-Angga-Saputro-Voyager-Full-Acc.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-UHD-Angga-Saputro-Voyager-Full-Acc.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Truck Canter Box Kardus Balap",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Canter-Box-Kardus-Balap.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Canter-Box-Kardus-Balap.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-Canter-Box-Kardus-Balap.png"
+    },
+   {
+      "title":"Truck UD Quester Tam Cargo New Bodyguard",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-UD-Quester-Tam-Cargo-New-Bodyguard.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-UD-Quester-Tam-Cargo-New-Bodyguard.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-UD-Quester-Tam-Cargo-New-Bodyguard.png"
+    },
+   {
+      "title":"Truck Canter New Kanjeng Mami",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Canter-New-Kanjeng-Mami.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Canter-New-Kanjeng-Mami.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-Canter-New-Kanjeng-Mami.png"
+    },
+   {
+      "title":"Truck UD Quester Trailer Tangki",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-UD-Quester-Trailer-Tangki-1.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-UD-Quester-Trailer-Tangki-1.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-UD-Quester-Trailer-Tangki-1.png"
+    },
+   {
+      "title":"Truck Pemadam Kebakaran Iveco Bombeiros",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Pemadam-Kebakaran-Iveco-Bombeiros.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Pemadam-Kebakaran-Iveco-Bombeiros.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Truck Scania P360 Pemadam Kebakaran",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Truck-Scania-P360-Pemadam-Kebakaran.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Scania-P360-Pemadam-Kebakaran.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Truck Canter Samudra Nusantara",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/Canter-Samudra-Nusantara.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Canter-Samudra-Nusantara.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Canter-Samudra-Nusantara.png"
+    },
+   {
+      "title":"Truck Mercedes-Benz Truck Racing",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Truck-Mercedes-Benz-Truck-Racing.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Mercedes-Benz-Truck-Racing.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Truck Canter Ayam Bodykit Samudra Nusantara",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Truck-Canter-Ayam-Bodykit-Samudra-Nusantara.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Canter-Ayam-Bodykit-Samudra-Nusantara.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-Canter-Ayam-Bodykit-Samudra-Nusantara.png"
+    },
+   {
+      "title":"Truck Mercedes-Benz Motorhome",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/09/MOD-BUSSID-Truck-Mercedes-Benz-Motorhome.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Mercedes-Benz-Motorhome.bussidmod",
+      "link_livery":""
+    }
+  ]
+}
